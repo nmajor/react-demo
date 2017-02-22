@@ -1,3 +1,6 @@
+Copied and modified from this repo:
+https://github.com/ruanyf/react-babel-webpack-boilerplate
+
 This repo is a boilerplate for React-Babel-Webpack project. You could use it as a base to build your own web app.
 
 ## Features
@@ -17,7 +20,7 @@ This repo is a boilerplate for React-Babel-Webpack project. You could use it as 
 First, clone the repo.
 
 ```bash
-$ git clone git@github.com:ruanyf/react-babel-webpack-boilerplate.git <yourAppName>
+$ git clone git@github.com:nmajor/react-demo.git <yourAppName>
 $ cd <yourAppName>
 ```
 
