@@ -39,7 +39,11 @@
     "promise/param-names": 2,
     "promise/always-return": 2,
     "promise/catch-or-return": 2,
-    "promise/no-native": 0
+    "promise/no-native": 0,
+    "react/no-multi-comp": 0,
+    "react/prefer-stateless-function": 0,
+    "arrow-body-style": 0,
+    "max-len": 0
   },
   "plugins": [
     "compat",
